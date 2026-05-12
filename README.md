@@ -89,7 +89,7 @@ CREATE TABLE Teacher(
 
 *Add screenshot here*
 
-![Home Screenshot](./screenshots/home.png)
+![Home Screenshot](./screenshot/home.png)
 
 ---
 
@@ -97,7 +97,7 @@ CREATE TABLE Teacher(
 
 *Add screenshot here*
 
-![Users Screenshot](./screenshots/users.png)
+![Users Screenshot](./screenshots/show user.png)
 
 ---
 
@@ -105,7 +105,7 @@ CREATE TABLE Teacher(
 
 *Add screenshot here*
 
-![New User Screenshot](./screenshots/new-user.png)
+![New User Screenshot](./screenshot/add user.png)
 
 ---
 
@@ -113,7 +113,7 @@ CREATE TABLE Teacher(
 
 *Add screenshot here*
 
-![Edit Screenshot](./screenshots/edit.png)
+![Edit Screenshot](./screenshot/edit user.png)
 
 ---
 
