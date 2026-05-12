@@ -87,7 +87,6 @@ CREATE TABLE Teacher(
 
 ### Home Page
 
-*Add screenshot here*
 
 ![Home Screenshot](./screenshot/home.png)
 
@@ -95,7 +94,6 @@ CREATE TABLE Teacher(
 
 ### All Users Page
 
-*Add screenshot here*
 
 ![Users Screenshot](./screenshot/showuser.png)
 
@@ -103,7 +101,6 @@ CREATE TABLE Teacher(
 
 ### New User Entry Page
 
-*Add screenshot here*
 
 ![New User Screenshot](./screenshot/adduser.png)
 
@@ -111,7 +108,6 @@ CREATE TABLE Teacher(
 
 ### Edit User Page
 
-*Add screenshot here*
 
 ![Edit Screenshot](./screenshot/edituser.png)
 
