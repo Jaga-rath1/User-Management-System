@@ -97,7 +97,7 @@ CREATE TABLE Teacher(
 
 *Add screenshot here*
 
-![Users Screenshot](./screenshots/showuser.png)
+![Users Screenshot](./screenshot/showuser.png)
 
 ---
 
